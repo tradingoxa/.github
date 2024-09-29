@@ -6,29 +6,6 @@ Welcome to **TRADING OXA**! This organization is dedicated to the development an
 
 **TRADING OXA** is a cutting-edge trading platform that combines sophisticated analytics, real-time data, and robust trading functionalities. Designed for both individual and institutional traders, it provides a comprehensive suite of tools for market analysis, trading strategy execution, and portfolio management.
 
-## Key Components
-
-### 1. TradingStudio
-- **Advanced Charting**: Customizable charts with a wide range of indicators and drawing tools.
-- **Watchlists & Alerts**: Real-time asset tracking and notifications for significant changes.
-- **Demo Trading**: Simulated trading environment to practice strategies.
-- **Backtesting**: Historical data testing of trading strategies.
-
-### 2. MetricsStudio
-- **Account Analytics**: In-depth analysis of trading account performance and statistics.
-- **Custom Dashboards**: Create and manage personalized dashboards and widgets.
-- **Portfolio Management**: Tools for monitoring and managing portfolio allocation and performance.
-
-### 3. MarketsStudio
-- **Market Insights**: Detailed analysis by asset class and individual symbols.
-- **Symbol Analysis**: Historical performance and trend analysis for specific assets.
-- **Gains Tables & Heatmaps**: Visual tools for market performance and trends.
-
-### 4. FinanceStudio
-- **Economic Calendar**: Track major economic events and indicators.
-- **Country Analysis**: Comparative analysis of economic performance across nations.
-- **Global News Feed**: Stay updated with essential economic and market news.
-
 ## Getting Started
 
 As a closed-source project, TRADING OXA’s source code is not publicly available. For more information on using our platform, please refer to our user guides and support resources.
